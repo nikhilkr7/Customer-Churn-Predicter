@@ -2,7 +2,7 @@
 Customer churn, which refers to the loss of customers over time, is a major challenge for businesses. Accurately predicting churn enables companies to take proactive measures to retain customers, enhance satisfaction, and optimize their marketing strategies.
 
 ## Benefits of Customer Retention Analytics
-Enhanced Customer Retention
+### Enhanced Customer Retention
 
 Identify customers likely to churn using predictive analytics.
 
