@@ -4,9 +4,9 @@ Customer churn, which refers to the loss of customers over time, is a major chal
 ## Benefits of Customer Retention Analytics
 ### Enhanced Customer Retention
 
-Identify customers likely to churn using predictive analytics.
+1. Identify customers likely to churn using predictive analytics.
 
-Take proactive, timely actions to retain them (e.g., targeted offers, follow-ups).
+2. Take proactive, timely actions to retain them (e.g., targeted offers, follow-ups).
 
 Optimized Marketing Spend
 
