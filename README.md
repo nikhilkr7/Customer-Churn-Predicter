@@ -14,7 +14,7 @@ Allocate resources more efficiently by focusing on high-value customers.
 
 Reduce costs associated with acquiring new customers.
 
-Personalized Customer Experience
+## Personalized Customer Experience
 
 Deliver tailored recommendations and solutions based on customer behavior.
 
