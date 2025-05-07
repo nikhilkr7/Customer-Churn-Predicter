@@ -20,7 +20,7 @@ Deliver tailored recommendations and solutions based on customer behavior.
 
 Increase satisfaction and loyalty through relevant interactions.
 
-Revenue Growth
+## Revenue Growth
 
 Lower churn rates contribute to more stable and predictable revenue.
 
