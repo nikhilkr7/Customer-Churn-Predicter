@@ -12,7 +12,7 @@ Customer churn, which refers to the loss of customers over time, is a major chal
 
 1. Allocate resources more efficiently by focusing on high-value customers.
 
-Reduce costs associated with acquiring new customers.
+2. Reduce costs associated with acquiring new customers.
 
 ### Personalized Customer Experience
 
