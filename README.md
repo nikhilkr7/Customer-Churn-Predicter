@@ -8,7 +8,7 @@ Customer churn, which refers to the loss of customers over time, is a major chal
 
 2. Take proactive, timely actions to retain them (e.g., targeted offers, follow-ups).
 
-## Optimized Marketing Spend
+### Optimized Marketing Spend
 
 Allocate resources more efficiently by focusing on high-value customers.
 
