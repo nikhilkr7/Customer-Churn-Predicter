@@ -18,7 +18,7 @@ Customer churn, which refers to the loss of customers over time, is a major chal
 
 1. Deliver tailored recommendations and solutions based on customer behavior.
 
-Increase satisfaction and loyalty through relevant interactions.
+2. Increase satisfaction and loyalty through relevant interactions.
 
 ### Revenue Growth
 
