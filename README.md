@@ -22,7 +22,7 @@ Customer churn, which refers to the loss of customers over time, is a major chal
 
 ### Revenue Growth
 
-Lower churn rates contribute to more stable and predictable revenue.
+1. Lower churn rates contribute to more stable and predictable revenue.
 
 Long-term relationships lead to increased lifetime customer value and profitability.
 
