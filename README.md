@@ -16,7 +16,7 @@ Customer churn, which refers to the loss of customers over time, is a major chal
 
 ### Personalized Customer Experience
 
-Deliver tailored recommendations and solutions based on customer behavior.
+1. Deliver tailored recommendations and solutions based on customer behavior.
 
 Increase satisfaction and loyalty through relevant interactions.
 
